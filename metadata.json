@@ -1,0 +1,5 @@
+{
+  "name": "FlowGen AI",
+  "description": "A sequential image generation tool. Create a flow of prompts where each image evolves from the previous one.",
+  "requestFramePermissions": []
+}
